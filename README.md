@@ -6,7 +6,7 @@
   alt="header"/>
 </div>
 <!-- ESTRELLAS DE FONDO -->
-<div style="background: url('https://link-a-imagen-estrellada.png'); background-size: cover; height: 250px; width: 100%; text-align: center;">
+<div style="background: url('https://github.com/David-I-X/David-I-X/blob/main/descarga.jfif'); background-size: cover; height: 250px; width: 100%; text-align: center;">
 </div>
 
  <h1 align="center">🌌 Bienvenido a mi universo 🌌</h1>
