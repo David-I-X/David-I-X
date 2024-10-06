@@ -27,10 +27,9 @@
 Soy un **científico de datos** con experiencia en el análisis de grandes volúmenes de información. Mi objetivo es traducir datos en insights valiosos, construyendo modelos que impacten positivamente en la toma de decisiones.
 
 - 🌌 **Áreas de especialización**:
-  - Machine Learning (Supervisado/No Supervisado)
+  - Machine Learning (Supervisado)
   - Visualización de datos
-  - Análisis de series temporales
-  - Optimización de recursos
+  - Economia y Optimización de recursos
   - Modelos predictivos
   - Sustentabilidad y optimización ambiental en proyectos de transporte
 
@@ -38,12 +37,12 @@ Soy un **científico de datos** con experiencia en el análisis de grandes volú
   - **Lenguajes**: Python, SQL
   - **Herramientas**: Jupyter, Streamlit, Apache Airflow, MinIO
   - **Bases de datos**: MySQL, Postgres
-  - **Nube**: AWS, Google Cloud
   - **Otros**: Docker, Git, Linux
 
 - 🌌 **Estoy trabajando en**:
   - Implementación de modelos de machine learning para predecir y optimizar la eficiencia operativa y sostenibilidad en flotas de transporte.
   - Proyectos interactivos de visualización de KPIs en tiempo real.
+  - comienzos de proyecto sobre economia
 
 ---
 
@@ -61,11 +60,11 @@ Soy un **científico de datos** con experiencia en el análisis de grandes volú
 ### 🛸 Conéctate conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+  <a href="www.linkedin.com/in/david-aguirre-b05b1425a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://www.instagram.com/david.aguirre9/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%231DA1F2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/tu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
