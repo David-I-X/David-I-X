@@ -47,6 +47,17 @@ Soy un **científico de datos** con experiencia en el análisis de grandes volú
 
 ---
 
+
+<!-- Tarjeta de estadísticas -->
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=David-I-X&show_icons=true&theme=radical)
+
+<!-- Lenguajes más usados -->
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=David-I-X&layout=compact&theme=radical)
+
+
+
+---
+
 ### 🛸 Conéctate conmigo
 
 <p align="center">
@@ -63,15 +74,16 @@ Soy un **científico de datos** con experiencia en el análisis de grandes volú
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR0dq6lzhRy4f4A/giphy.gif" width="300">
-</p>
+<!-- HEADER -->
+<div align="center" width="100">
+  <img src="https://github.com/user-attachments/assets/0d2dfc4d-33e5-4ea3-826c-7f782e9f72be" />
+</div>
 
 <h2 align="center">"Los datos son mi universo, y las soluciones son las estrellas que descubro"</h2>
 
-
 <!-- FOOTER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  <img src="https://capsule-render.vercel.app/api?color=0:7f00ff,50:1a0080,100:000000&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
 </div>
+
