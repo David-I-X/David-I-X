@@ -5,6 +5,9 @@
   <img src="https://capsule-render.vercel.app/api?color=0:6d04bf,50:0d074e,100:010016&height=250&section=header&text=David%20(David-I-X)&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn&customColorList=ffffff:0.1,8e44ad:0.2&pattern=stars"
   alt="header"/>
 </div>
+<!-- ESTRELLAS DE FONDO -->
+<div style="background: url('https://link-a-imagen-estrellada.png'); background-size: cover; height: 250px; width: 100%; text-align: center;">
+</div>
 
  <h1 align="center">🌌 Bienvenido a mi universo 🌌</h1>
 
